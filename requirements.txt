@@ -1,3 +1,8 @@
 langchain
 langchain-ollama
 langchain-chroma
+pandas
+
+
+#ollama 3.2:1b
+#mxbai-embed-large
